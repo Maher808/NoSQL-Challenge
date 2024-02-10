@@ -1,5 +1,5 @@
 # NoSQL-Challenge
- This Challenge are as follows:
+ This Challenge is as follows:
 
 Deliverable 1: A Jupyter notebook containing code that imports the data and sets up and updates the uk_food database.
 
